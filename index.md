@@ -20,6 +20,6 @@
 
 ⚠️ 购买前，请确认您的VPN能够访问 ChatGPT (https://chat.openai.com)
 
-⏳ 付款后，6小时内通过电邮发货。 请确认您输入的点邮箱是正确的！
+⏳ 付款后，6小时内通过电邮发货。 请确认您输入的电邮箱是正确的！
 
 ☎️ 电报商店和客户服务：https://t.me/chatgptshopjwbot
