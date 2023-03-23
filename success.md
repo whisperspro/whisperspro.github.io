@@ -7,6 +7,7 @@
 > 
 > ⏳ 如果6小时候还没收货，请访问以下的电报商店，点击“联系店主”
 > 
-> ☎️ 电报商店和客户服务：https://t.me/chatgptshopjwbot
+> ☎️ 客户服务：https://t.me/chatgptshopjwbot （电报商店）
 
+#### 请分享给有兴趣购买的朋友: https://whisperspro.github.io/ （网站商店）
 - - -
