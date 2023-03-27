@@ -2,7 +2,7 @@
 
 ## 🇨🇳 中文
 
-### ChatGPT疯狂好AI，可以帮助你写论文，写编程(编程序)，学英语，写广告内容等，可以迅速帮你完成工作! 赶紧点击购买ChatGPT帐号，开启AI的力量！
+### ChatGPT疯狂好AI，可以帮助你写论文，编程序，学英语，写广告内容等，可以迅速帮你完成工作! 赶紧点击购买ChatGPT帐号，开启AI的力量！
 
 ### 4️⃣ Plus 用户可以体验最新的 GPT-4！
 
@@ -20,6 +20,6 @@
 
 ⚠️ 购买前，请确认您的VPN能够访问 ChatGPT ([https://chat.openai.com](https://chat.openai.com))
 
-⏳ 付款后，6小时内通过电邮发货。 请确认您输入的电邮箱(电邮地址)是正确的
+⏳ 付款后，6小时内通过电邮发货。 请确认您输入的电邮地址是正确的
 
 ☎️ 电报商店和客户服务：[https://t.me/chatgptshopjwbot](https://t.me/chatgptshopjwbot)
