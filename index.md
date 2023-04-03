@@ -4,8 +4,6 @@
 
 ### ChatGPT疯狂好AI，可以帮助你写论文，编程序，学英语，写广告内容等，可以迅速帮你完成工作! 赶紧点击购买ChatGPT帐号，开启AI的力量！
 
-### 4️⃣ Plus 用户可以体验最新的 GPT-4！
-
 官方网站：[https://chat.openai.com/](https://chat.openai.com/)
 
 请点击以下购买官方独享账号
