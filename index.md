@@ -11,7 +11,7 @@
 💳 支持 支付宝 / 微信支付
 
 #### 💻 [ChatGPT 普通账号 (¥25)](https://buy.stripe.com/9AQ4hY9Iz4pke7m5km?locale=zh)
-⏱️ 普通账号是永久号
+⏱️ 普通账号是永久号，永远一人一号
 
 ⚠️ 购买前，请确认您的VPN能够访问 ChatGPT ([https://chat.openai.com](https://chat.openai.com))
 
