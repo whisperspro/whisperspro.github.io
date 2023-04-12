@@ -13,7 +13,7 @@
 #### 💻 [ChatGPT 普通账号 (¥25)](https://buy.stripe.com/9AQ4hY9Iz4pke7m5km?locale=zh)
 ⏱️ 普通账号是永久号，永远一人一号
 
-#### 💻 [ChatGPT Plus 账号 (¥180)](https://buy.stripe.com/7sI3dU2g77Bw9R614b?locale=zh)
+#### 👑 [ChatGPT Plus 账号 (¥180)](https://buy.stripe.com/7sI3dU2g77Bw9R614b?locale=zh)
 🌟 Plus 用户可以体验最新的 GPT-4！
 ⏱️ Plus 订阅1 个月后自动恢复为永久普通账号. 如果想继续订阅，您可以从本商店重新购买订阅
 
