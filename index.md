@@ -20,7 +20,7 @@
 ✅数据库更新到2023年4月
 ✅DALL-E 3 生成图片
 ✅GPTs 和 GPTs 商店：自定义创建属于自己的 gpt  
-✅语音对话 （需要手机app，[安装教程] (https://telegra.ph/ChatGPT-app-%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-11-19)）
+✅语音对话 （需要手机app，[安装教程](https://telegra.ph/ChatGPT-app-%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-11-19)）
 
 ⚠️ 购买前，请确认您的VPN能够访问 ChatGPT ([https://chat.openai.com](https://chat.openai.com))
 
